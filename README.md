@@ -20,6 +20,16 @@ The application requires specific tokens to communicate with external APIs. You 
 
 2- https://waqi.info (For the air pollution api)
 
+## Images from Weather Part
+
+<img src="https://raw.githubusercontent.com/iremsilamadenli/WeatherAndPollutionApp/main/weather_app/assets/morningweather.png" height="500" /><img src="https://raw.githubusercontent.com/iremsilamadenli/WeatherAndPollutionApp/main/weather_app/assets/afterweather.png" height="500" />
+<img src="https://raw.githubusercontent.com/iremsilamadenli/WeatherAndPollutionApp/main/weather_app/assets/darkweather.png" height="500" />
+
+## Images from Pollution Part
+<img src="https://raw.githubusercontent.com/iremsilamadenli/WeatherAndPollutionApp/main/weather_app/assets/morningpollution.png" height="500" /><img src="https://raw.githubusercontent.com/iremsilamadenli/WeatherAndPollutionApp/main/weather_app/assets/afterpollution.png" height="500" />
+<img src="https://raw.githubusercontent.com/iremsilamadenli/WeatherAndPollutionApp/main/weather_app/assets/darkpollution.png" height="500" />
+
+
 ## Installation
 
 1. Clone this repository: `git clone https://github.com/username/WeatherAndPollutionApp.git`
